@@ -1,5 +1,1 @@
-# Ubuntu Server SSH configuration
-Host ubuntu-server
-    HostName 10.0.2.15
-    User ubuntu
-    IdentityFile ~/.ssh/id_rsa
+#
